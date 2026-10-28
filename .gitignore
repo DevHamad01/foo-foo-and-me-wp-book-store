@@ -1,0 +1,14 @@
+# Release zips are built from git, never committed.
+*.zip
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Dependencies (if tooling is added later)
+node_modules/
+vendor/

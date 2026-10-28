@@ -1,0 +1,20 @@
+/*
+Theme Name:        Little Bunny Foo Foo
+Theme URI:         https://littlebunnyfoofoo.com
+Author:            M Hamad
+Description:       A fully custom, hand-built storybook theme for the Little Bunny Foo Foo book series. Cinematic desert hero scenes, 3D book covers, a page-turning book preview, read-aloud players, downloadable activities, a contact form, English/Arabic (RTL) switch, page transitions and a loading screen — all editable from the Customizer. No page builder required.
+Version:           1.2.4
+Requires at least: 6.0
+Tested up to:      6.8
+Requires PHP:      7.4
+License:           GNU General Public License v2 or later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:       littlebunny
+Tags:              rtl-language-support, custom-menu, custom-logo, featured-images, translation-ready, one-column, full-width-template, e-commerce, education
+*/
+
+/*
+ * All theme styles live in assets/css/main.css and are enqueued from
+ * inc/enqueue.php. This file only carries the theme header that WordPress
+ * reads, so it stays small and cache-friendly.
+ */
